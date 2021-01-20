@@ -77,5 +77,4 @@ https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=916&type=card
 
 
 
-
   **NOTE: All images belong to Magic: The Gathering and Wizards of the Coast respectively**
